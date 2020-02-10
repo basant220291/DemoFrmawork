@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Reusable {
-
+/*Under Developed*/
 	public static WebDriver driver;
 	static WebDriverWait wait;
 	
